@@ -83,14 +83,6 @@ Structured Python practice covering variables, loops, OOP, file handling, except
 
 ---
 
-## 📊 GitHub Stats
-
-![Aishwarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishwaryaG080&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaG080&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishwarya%20Dalvi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishwaryadilipgaikwad080)
