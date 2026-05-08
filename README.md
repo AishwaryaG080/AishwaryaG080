@@ -17,14 +17,24 @@ I'm a software professional based in **Pune, India**, currently focused on Pytho
 
 ## Tech Stack
 
-**Languages:** Python, PHP, JavaScript
+### 🚀 Languages
+- Python
+- PHP
+- JavaScript
 
-| ML & Data | Frameworks & Tools | BI & Analytics |
-| :--- | :--- | :--- |
-| Scikit-learn | Django | Power BI |
-| Pandas | VS Code | |
-| NumPy | | |
-| Matplotlib | | |
+### 📊 Machine Learning & Data Science
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🛠️ Frameworks & Tools
+- Django
+- VS Code
+- Git & GitHub
+
+### 📈 BI & Analytics
+- Power BI
 
 ---
 
