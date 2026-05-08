@@ -19,24 +19,25 @@ I'm a software professional based in **Pune, India**, currently focused on Pytho
 
 **Languages**
 
-![Python}
-![PHP]
-![JavaScript]
+**Python**
+**PHP**
+**JavaScript**
 
 **ML & Data**
 
-![Scikit-learn]
-![Pandas]
-![NumPy]
-![Matplotlib]
+**Scikit-learn**
+**Pandas**
+**NumPy**
+**Matplotlib**
+
 **Frameworks & Tools**
 
-![Django]
-![VS Code]
+**Django**
+**VS Code**
 
 **BI & Analytics**
 
-![Power BI]
+**Power BI**
 
 ---
 
